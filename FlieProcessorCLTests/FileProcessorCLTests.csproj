@@ -20,7 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\CLKasperskyText\CLKasperskyText.csproj" />
+    <ProjectReference Include="..\FileProcessorCL\FileProcessorCL.csproj" />
   </ItemGroup>
 
 </Project>
